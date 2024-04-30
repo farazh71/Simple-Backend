@@ -5,12 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "dev":"nodemon src/index.js"
   },
   "keywords": [
     "backend",
     "frontend"
   ],
   "author": "Faraz hussain",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
