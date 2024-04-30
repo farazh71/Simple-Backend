@@ -1,0 +1,16 @@
+{
+  "name": "third",
+  "version": "1.0.0",
+  "description": "A backend using js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "frontend"
+  ],
+  "author": "Faraz hussain",
+  "license": "ISC"
+}
